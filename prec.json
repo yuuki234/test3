@@ -1,0 +1,7 @@
+{
+  "project": "precious",
+  "version": "0.0.1",
+  "author" : "yuuki",
+  "entry_point": "index.scm",
+  "description": "hogehoge",
+}
